@@ -1,5 +1,6 @@
 # Welcome to Dungeon Escape 
-
+![DungeonE](DE.png)
+---
 A fun and thrilling text-based Python game where your wits, courage, and riddle-solving skills will decide your fate! Explore the mysterious dungeon, dodge traps, battle beasts, unlock doors, and riddle your way out of the exit door before your health runs out.
 
 ---
