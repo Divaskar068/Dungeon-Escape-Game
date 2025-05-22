@@ -7,7 +7,7 @@ A fun and thrilling text-based Python game where your wits, courage, and riddle-
 ## 🔥 How to Play
 
 🎮 **Controls:**
-- Standard `w`, `a`, `s`, `d` to move up, left, down, and right on the dungeon grid.
+- Standard `w`, `a`, `s`, `d` to move in the dungeon matrix.
 
 🗺️ **Objective:**
 - Start from the top-left corner of the dungeon map and explore every mysterious tile.
